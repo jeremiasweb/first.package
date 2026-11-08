@@ -1,9 +1,10 @@
 Package: first.package
-Title: Package for summation of numeric vector values with last value of vector
+Title: Simple Numeric Vector Arithmetic
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: The package can be used to add the last value of a numeric vector to the values of the given vector.
+Description: Add the last value of a numeric vector to its elements or
+    multiply two numeric inputs element by element.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
